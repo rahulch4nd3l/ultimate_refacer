@@ -1,6 +1,5 @@
 # Refacer: One-Click Deepfake Multi-Face Swap Tool
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xaviviro/refacer/blob/master/notebooks/Refacer_colab.ipynb)
+#All credit goes to [Xaviviro] (https://github.com/xaviviro/)
 
 👉 [Watch demo on Youtube](https://youtu.be/mXk1Ox7B244)
 
@@ -14,6 +13,11 @@ Refacer, a simple tool that allows you to create deepfakes with multiple faces w
 
 [![Watch the video](https://img.youtube.com/vi/mXk1Ox7B244/maxresdefault.jpg)](https://youtu.be/mXk1Ox7B244)
 
+##Update as Ultimate_refacer
+• No Server Timeout
+• Big file upload Support
+• Same Face selection and destination
+• Fixed Errors while upload
 
 ## System Compatibility
 
